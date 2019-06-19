@@ -5,7 +5,7 @@
 - Authors: Baoguang Shi, Xiang Bai, Cong Yao
 
 ## Requirement
-pytorch
+torch
 torchvision
 lmdb
 
@@ -13,6 +13,6 @@ lmdb
 数据集的创建请参考后两个repo, 整个repo会自动检测cpu or gpu，若存在多gpu，则会进行多gpu训练
 
 ## Reference
-[bgshih/crnn](https://github.com/bgshih/crnn)
-[meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch)
-[Sierkinhane/crnn_chinese_characters_rec](https://github.com/Sierkinhane/crnn_chinese_characters_rec)
+- [bgshih/crnn](https://github.com/bgshih/crnn)
+- [meijieru/crnn.pytorch](https://github.com/meijieru/crnn.pytorch)
+- [Sierkinhane/crnn_chinese_characters_rec](https://github.com/Sierkinhane/crnn_chinese_characters_rec)

@@ -1,4 +1,6 @@
-# CRNN论文实现 pytorch版
+# CRNN - pytorch
+
+**There have another implementation by tensorflow 2, please see [CRNN.tf2](https://github.com/FLming/CRNN.tf2)**
 
 ## Paper
 - Title: [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717)
